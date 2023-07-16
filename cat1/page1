@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Customization
-nav_order: 3
+title: Buttons
+parent: UI Components
+nav_order: 1
 ---
 
 this is page1
